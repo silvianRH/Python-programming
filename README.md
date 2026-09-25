@@ -10,4 +10,4 @@
   * OnlineGDB
   * YouTube
   * Google Search
-  * W3SCHOOL
+  * W3school
