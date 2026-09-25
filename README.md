@@ -1,14 +1,12 @@
+
 # Python-programming
-&lt;&lt; My weekly projects on python >>
 
-saptamana1.py - Calculator de medie & Simulator Scolar
+*My weekly projects on Python*
 
-Surse folosite pentru acest proiect:
- 
- -Gemini AI
- 
- -OnlineGDB
- 
- -Youtube
- 
- -GoogleSearch
+### 🗓️ Săptămâna 1
+* **Proiect:** `saptamana1.py` - Calculator de medie & Simulator Școlar
+* **Surse folosite:**
+  * Gemini AI
+  * OnlineGDB
+  * YouTube
+  * Google Search
